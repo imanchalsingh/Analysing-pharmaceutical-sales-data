@@ -113,12 +113,9 @@ F4 --> G
 G --> H[Insights & Conclusions]
 ```
 
-```md
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
-
-```
 
 ---
 
