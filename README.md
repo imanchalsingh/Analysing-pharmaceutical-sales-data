@@ -33,6 +33,7 @@ Key objectives:
 
 ## Project Structure
 
+```md
 Analysing-pharmaceutical-sales-data/
 │
 ├── data.csv
@@ -40,6 +41,7 @@ Analysing-pharmaceutical-sales-data/
 ├── analysis.ipynb
 │
 └── README.md
+```
 
 ---
 
@@ -116,6 +118,8 @@ G --> H[Insights & Conclusions]
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 
+```
+
 ---
 
 ## Author
@@ -123,4 +127,4 @@ G --> H[Insights & Conclusions]
 Anchal Singh
 Software Engineer
 
-#### Thank You!
+### Thank You
