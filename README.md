@@ -119,9 +119,22 @@ G --> H[Insights & Conclusions]
 
 ---
 
+---
+
+## Project Source
+
+This project idea is inspired by the following learning project from roadmap.sh:
+
+</> <https://roadmap.sh/projects/pharmaceutical-sales-data>
+
+roadmap.sh is a community-driven platform that provides structured learning roadmaps and hands-on project ideas to help developers and data analysts build practical skills.
+
+The implementation, analysis, and visualizations in this repository are independently completed as part of learning data analytics using Python.
+
 ## Author
 
 Anchal Singh
-Software Engineer
+
+- Software Engineer
 
 ### Thank You
