@@ -131,6 +131,13 @@ roadmap.sh is a community-driven platform that provides structured learning road
 
 The implementation, analysis, and visualizations in this repository are independently completed as part of learning data analytics using Python.
 
+## Report
+
+This project is created only for educational and analytical purposes.  
+All analysis, visualizations, and insights are independently performed using publicly available datasets and tools.  
+
+Plagiarism is strictly prohibited.  
+
 ## Author
 
 Anchal Singh
